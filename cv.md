@@ -4,7 +4,7 @@
 *******
 * Location: Minsk, Belarus
 * Phone: +37529686-16-81
-* CitHub: OlgaAgeychik
+* GitHub: OlgaAgeychik
 * Email: olga.ageychik@gmail.com
 *******
 ### About me
